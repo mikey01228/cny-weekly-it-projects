@@ -4,21 +4,23 @@ CNY Home Improvements IT automation, integrations, estimating systems, and weekl
 
 ## Latest Weekly Update
 
-- [September 16, 2026 — CNY IT & Automation Weekly Update](weekly-updates/2026-09-16.md)
+- [September 23, 2026 — CNY IT & Automation Weekly Update](weekly-updates/2026-09-23.md)
 
 ## Current Project Status
 
 | Project | Status | Current Focus |
 |---|---|---|
-| New Job Creator Version 5.6 | Final testing | Stable core workflow, estimate creation, and go-live readiness |
-| New York Selection and Estimate | Near readiness | Final end-to-end validation and control regression testing |
-| Florida Selection and Estimate | Validation required | Dedicated regional test before production approval |
-| Lead and Sales Integrations | Open | HighLevel-to-Google Sheets transfer and routing reliability |
-| CNY Website | Active maintenance | Branded website QR code and ongoing page maintenance |
-| Weekly Documentation | Active | Wednesday management updates and current project tracking |
+| New Job Creator and Estimates | Advanced testing | Final New York/Florida regression testing and New York Bath mapping |
+| AI Lead Intake | Staging and testing | Remove unwanted scheduling and validate NY, FL, repair, transfer, and out-of-area paths |
+| HighLevel and Sales Integrations | Open | Reliable Google Sheets transfer and follow-up routing |
+| CNY Website | Active maintenance | Our Team cleanup, Elementor limitation, and Rank Math troubleshooting |
+| Phone and Calendar Systems | Troubleshooting | Florida call routing and dependable calendar notifications |
+| Cybersecurity | Early testing | Limited CanIPhish checks and management review of the authorization agreement |
+| Weekly Documentation | Active | Management-friendly work logs, testing notes, and current priorities |
 
 ## Weekly Updates
 
+- [September 23, 2026](weekly-updates/2026-09-23.md)
 - [September 16, 2026](weekly-updates/2026-09-16.md)
 - [September 9, 2026](weekly-updates/2026-09-09.md)
 
