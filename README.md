@@ -4,22 +4,22 @@ CNY Home Improvements IT automation, integrations, estimating systems, and weekl
 
 ## Latest Weekly Update
 
-- [September 23, 2026 — CNY IT & Automation Weekly Update](weekly-updates/2026-09-23.md)
+- [September 30, 2026 — CNY IT & Automation Weekly Update](weekly-updates/2026-09-30.md)
 
 ## Current Project Status
 
 | Project | Status | Current Focus |
 |---|---|---|
-| New Job Creator and Estimates | Advanced testing | Final New York/Florida regression testing and New York Bath mapping |
-| AI Lead Intake | Staging and testing | Remove unwanted scheduling and validate NY, FL, repair, transfer, and out-of-area paths |
-| HighLevel and Sales Integrations | Open | Reliable Google Sheets transfer and follow-up routing |
-| CNY Website | Active maintenance | Our Team cleanup, Elementor limitation, and Rank Math troubleshooting |
-| Phone and Calendar Systems | Troubleshooting | Florida call routing and dependable calendar notifications |
-| Cybersecurity | Early testing | Limited CanIPhish checks and management review of the authorization agreement |
-| Weekly Documentation | Active | Management-friendly work logs, testing notes, and current priorities |
+| Leads & Sales Automation V2 | Working in testing | Adapt to the live workbook, preserve existing controls, and complete end-to-end testing |
+| HighLevel and AI Intake | Testing and approval | Publish state routing only after unwanted scheduling and complex intake paths are resolved |
+| New York Selection and Estimate | Advanced testing | New York Bath mapping and final control regression |
+| Florida Selection and Estimate | Active repair | Corrected dropdowns, updated options, and affected template recreation |
+| CNY Website | Active maintenance | Spam protection, suspicious-form review, Elementor follow-up, and routine updates |
+| Weekly Documentation | Active | Management-friendly reports, employee guidance, testing notes, and rollout planning |
 
 ## Weekly Updates
 
+- [September 30, 2026](weekly-updates/2026-09-30.md)
 - [September 23, 2026](weekly-updates/2026-09-23.md)
 - [September 16, 2026](weekly-updates/2026-09-16.md)
 - [September 9, 2026](weekly-updates/2026-09-09.md)
