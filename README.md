@@ -4,21 +4,22 @@ CNY Home Improvements IT automation, integrations, estimating systems, and weekl
 
 ## Latest Weekly Update
 
-- [September 30, 2026 — CNY IT & Automation Weekly Update](weekly-updates/2026-09-30.md)
+- [October 7, 2026 — CNY IT & Automation Weekly Update](weekly-updates/2026-10-07.md)
 
 ## Current Project Status
 
 | Project | Status | Current Focus |
 |---|---|---|
-| Leads & Sales Automation V2 | Working in testing | Adapt to the live workbook, preserve existing controls, and complete end-to-end testing |
-| HighLevel and AI Intake | Testing and approval | Publish state routing only after unwanted scheduling and complex intake paths are resolved |
+| Leads & Sales Automation V2 | Core routing tests passed | Finish Voice AI connection, live-call validation, and controlled workflow publication |
+| Voice AI and Phone Routing | Active testing | Caller identity, transfer order, fallback routing, message delivery, and recurring-call cleanup |
 | New York Selection and Estimate | Advanced testing | New York Bath mapping and final control regression |
-| Florida Selection and Estimate | Active repair | Corrected dropdowns, updated options, and affected template recreation |
-| CNY Website | Active maintenance | Spam protection, suspicious-form review, Elementor follow-up, and routine updates |
-| Weekly Documentation | Active | Management-friendly reports, employee guidance, testing notes, and rollout planning |
+| Florida Selection and Estimate | Final-sync testing | Revision handling, stable handoff, and final regression checks |
+| CNY Website | Active maintenance | Form protection, Elementor follow-up, plugin review, and routine page support |
+| Weekly Documentation | Active | Management reports, test results, blockers, and rollout planning |
 
 ## Weekly Updates
 
+- [October 7, 2026](weekly-updates/2026-10-07.md)
 - [September 30, 2026](weekly-updates/2026-09-30.md)
 - [September 23, 2026](weekly-updates/2026-09-23.md)
 - [September 16, 2026](weekly-updates/2026-09-16.md)
