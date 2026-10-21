@@ -4,22 +4,24 @@ CNY Home Improvements IT automation, integrations, estimating systems, and weekl
 
 ## Latest Weekly Update
 
-- [October 14, 2026 — CNY IT & Automation Weekly Update](weekly-updates/2026-10-14.md)
+- [October 21, 2026 — CNY IT & Automation Weekly Update](weekly-updates/2026-10-21.md)
 
 ## Current Project Status
 
 | Project | Status | Current Focus |
 |---|---|---|
-| Leads & Sales Automation V2 | Approval tests passed | Finish add-on projects, out-of-area approvals, and controlled employee switch-over |
-| Voice AI — New York | Active refinement | Natural information collection, location review, and after-hours/weekend handling |
-| New York and Florida Estimates | Final workflow testing | Change Order verification, master formatting, and remaining regression checks |
-| V5 Job Creator | Advanced testing | End-to-end designer estimate, corrections, add-ons, and final release |
-| Digital Design Creator | Early development | First-version scope, curated materials, lighting, and complete shower previews |
-| CNY Website | Active maintenance | Form protection, Elementor follow-up, plugin review, and routine support |
-| Weekly Documentation | Active | Employee guidance, management reports, test results, and rollout planning |
+| Leads & Sales Automation V2 | Updated routing published | Final employee-view checks and controlled switch-over |
+| Lead and Sales Integrations | Final validation | Customer acknowledgments, staff notifications, and regional edge cases |
+| Voice AI — New York | Active refinement | Message collection, call handoff, and notification verification |
+| New York and Florida Estimates | Final workflow testing | Runtime checks, state-specific Change Orders, view refreshes, and print review |
+| V5 Job Creator | Advanced testing | End-to-end connection with Selections, Estimates, corrections, and add-on work |
+| Digital Design Creator | Early development | Small side-project planning; no production rollout |
+| CNY Website | Active maintenance | Form connections, redirect reliability, plugin review, and routine support |
+| Weekly Documentation | Active | Management reports, technical references, handoff notes, and rollout planning |
 
 ## Weekly Updates
 
+- [October 21, 2026](weekly-updates/2026-10-21.md)
 - [October 14, 2026](weekly-updates/2026-10-14.md)
 - [October 7, 2026](weekly-updates/2026-10-07.md)
 - [September 30, 2026](weekly-updates/2026-09-30.md)
