@@ -4,25 +4,26 @@ CNY Home Improvements IT automation, integrations, estimating systems, and weekl
 
 ## Latest Weekly Update
 
-- [November 18, 2026 — CNY IT & Automation Weekly Update](weekly-updates/2026-11-18.md)
+- [November 25, 2026 — CNY IT & Automation Weekly Update](weekly-updates/2026-11-25.md)
 
 ## Current Project Status
 
 | Project | Status | Current Focus |
 |---|---|---|
-| Leads & Sales Automation V2 | Active monitoring | Booking handoff, regional review, and contact consistency |
-| Lead and Sales Integrations | Final review | Reliable intake and follow-up handling |
-| Voice AI — New York | Active testing | Handoff reliability and location review |
-| New York Selections and Estimates | Release hold | Master repairs and controlled generated-file testing |
-| Florida Selections and Estimates | Release hold | Master repairs and controlled generated-file testing |
-| V5/V6 Job Creator | Stabilization | End-to-end validation and rollout readiness |
-| Future Project Integration | Preview only | Disabled until V5/V6 passes final testing |
-| Contract Documentation | Management review | Cross-state consistency and professional review |
-| CNY Website | Active maintenance | Intake reliability and routine support |
-| Weekly Documentation | Active | Management reports, audit notes, and repair planning |
+| Leads & Sales Automation V2 | Active validation | Booked-job handoff, readiness timing, and regional workflow checks |
+| Lead and Sales Integrations | Final review | Reliable intake, matching, and controlled notifications |
+| Voice AI — New York | Active refinement | Request classification and staff-review handling |
+| New York Selections and Estimates | Targeted tests passed | Fresh-job validation, access checks, and estimator usability |
+| Florida Selections and Estimates | Targeted tests passed | Fresh-job validation, access checks, and estimator usability |
+| V5/V6 Job Creator | Final validation | Progress feedback, permissions, timing, and rollout readiness |
+| Future Project Integration | Disabled draft | Safeguards and isolated testing before production |
+| CNY Website | Updates in review | Team content and Designs-page planning |
+| Operational Documentation | Active | File retention, permits, procedures, and employee guidance |
+| Weekly Documentation | Active | Management reports, testing notes, and next-step tracking |
 
 ## Weekly Updates
 
+- [November 25, 2026](weekly-updates/2026-11-25.md)
 - [November 18, 2026](weekly-updates/2026-11-18.md)
 - [November 11, 2026](weekly-updates/2026-11-11.md)
 - [November 4, 2026](weekly-updates/2026-11-04.md)
